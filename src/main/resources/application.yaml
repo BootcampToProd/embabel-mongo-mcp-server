@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: embabel-mongo-mcp-server
+
+embabel:
+  models:
+    defaultLlm: x-ai/grok-4.1-fast:free
+
+# MongoDB connection string
+mongodb:
+  uri: mongodb://${MONGO_HOST}:${MONGO_PORT}
+
