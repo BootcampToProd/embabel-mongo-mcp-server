@@ -8,7 +8,17 @@ This repository demonstrates how to build a **MongoDB MCP Server** using the **E
 👉 [**Build MongoDB MCP Server Using Embabel Framework**](https://bootcamptoprod.com/embabel-mongodb-mcp-server/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming soon!!
+👉 YouTube Tutorial - [**Build a MongoDB MCP Server Using Embabel Framework | Chat With Your Database using AI**](https://youtu.be/h6aadfCDwOc)
+
+<p align="center">
+  <a href="https://youtu.be/h6aadfCDwOc">
+    <img src="https://img.youtube.com/vi/h6aadfCDwOc/0.jpg" alt="Build a MongoDB MCP Server Using Embabel Framework | Chat With Your Database using AI" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/h6aadfCDwOc">Watch on YouTube</a>
+</p>
 
 ---
 
